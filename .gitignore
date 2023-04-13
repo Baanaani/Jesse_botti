@@ -1,0 +1,4 @@
+node_modules
+.env
+embeds
+code_dump
